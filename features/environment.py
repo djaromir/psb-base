@@ -1,5 +1,5 @@
 from selenium import webdriver
-from features.psblib.pages.base import *
+from features.psb_lib.pages.base import *
 
 
 def before_all(context):
