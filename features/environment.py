@@ -1,5 +1,5 @@
 from selenium import webdriver
-from features.lib_kemp.pages.base import *
+from features.lib.pages.base import *
 
 
 def before_all(context):
